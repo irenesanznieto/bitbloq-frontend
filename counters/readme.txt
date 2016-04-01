@@ -1,0 +1,1 @@
+Order Range Age: [0-14] , [15-18] , [19-25] , [26-36] , [37+] , without_birthday , number_users

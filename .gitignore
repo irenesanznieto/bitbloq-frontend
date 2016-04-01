@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.tmp/
+.sass-cache
+bower_components/
+*.log
+*~
+nbproject
+target/
+app/res/config/local/config.json
+
+# Editor File Ignore
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+i18n
+propertiesScripts
+
+app/scripts/config.js
+.gitconfig
+app/res/config
